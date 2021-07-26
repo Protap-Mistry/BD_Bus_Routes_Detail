@@ -1,0 +1,74 @@
+***** From Dhaka:
+
+1.Dhaka to Mongla
+2.Dhaka to Khulna
+3.Dhaka to Chittagong
+4.Dhaka to Sylhet
+5.Dhaka to Barisal
+6.Dhaka to Inner-Dhaka
+
+***** From Chittagong:
+
+7.Chittagong to Dhaka
+8.Chittagong to Khulna
+9.Chittagong to Inner-Chittagong
+10.Chittagong to Sylhet
+11.Chittagong to Mongla
+
+***** From Rajshahi:
+
+12.Rajshahi to Dhaka
+13.Rajshahi to Naogaon
+14.Rajshahi to Inner-Rajshahi
+15.Rajshahi to Natore
+16.Rajshahi to Bogra
+17.Rajshahi to Khulna
+18.Rajshahi to Barisal
+
+***** From Mymensingh:
+
+19.Mymensingh to Dhaka
+20.Mymensingh to Tangail
+21.Mymensingh to Inner-Mymensingh
+22.Mymensingh to Sylhet
+
+***** From Khulna:
+
+23.Khulna to Dhaka
+24.Khulna to Inner-Khulna
+25.Khulna to Barisal
+26.Khulna to Rajshahi
+27.Khulna to Mongla
+28.Khulna to Bagerhat
+29.Khulna to Jessore
+30.Khulna to Kushtia
+31.Khulna to Chittagong
+
+***** From Barisal:
+
+32.Barisal to Dhaka
+33.Barisal to Inner-Barisal
+34.Barisal to Khulna
+35.Barisal to Kuakata
+36.Barisal to Rajshahi
+37.Barisal to Chittagong
+38.Barisal to Pirojpur
+39.Barisal to Magura
+
+***** From Sylhet:
+
+40.Sylhet to Dhaka
+41.Sylhet to Inner-Sylhet
+42.Sylhet to Chittagong
+43.Sylhet to Hobiganj
+44.Sylhet to Rajshahi
+45.Sylhet to Abdullahpur
+46.Sylhet to Sreemongal
+
+***** From Rangpur:
+
+47.Rangpur to Dhaka
+48.Rangpur to Khulna
+49.Rangpur to Bogra
+50.Rangpur to Kurigram
+51.Rangpur to Inner-Rangpur

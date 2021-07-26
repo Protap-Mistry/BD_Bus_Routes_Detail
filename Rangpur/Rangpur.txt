@@ -1,0 +1,11 @@
+***City names:
+
+1.Baliadangi
+2.Jalpaiguri
+3.Rangpur
+4.Dinajpur
+5.Kurigram
+6.Phulbari
+7.Birampur
+8.saghata
+9.Durgapur

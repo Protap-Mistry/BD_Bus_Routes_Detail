@@ -1,0 +1,19 @@
+***City names:
+
+1.Alamdanga
+2.Chuadanga
+3.Darshana
+4.Jhenaidah
+5.Magura
+6.Rampur
+7.Bollamuk
+8.Bhawanipur
+9.Bongaon
+10.Jessore
+11.Noapara
+12.Khulna
+13.Tala
+14.Bagerhat
+15.Mongla
+16.satkhira
+17.Morrelganj
